@@ -19,13 +19,13 @@
 
 💻 Data Engineer/Analyst @ **Tata Consultancy Services**
 
-📄 To view my porfolio [https://senjapuri.github.io/Portfolio-Website/#](https://senjapuri.github.io/Portfolio-Website/#)
-
-👨‍💻 All of my projects are available at [https://github.com/samenjapuri](https://github.com/samenjapuri)
-
 🌱 Always eager to learn and explore **new technologies**
 
 📫 How to reach me **enjapurisameer@gmail.com**
+
+📄 To view my porfolio [https://senjapuri.github.io/Portfolio-Website/#](https://senjapuri.github.io/Portfolio-Website/#)
+
+👨‍💻 All of my projects are available at [https://github.com/samenjapuri](https://github.com/senjapuri)
 
 📄 Know about my experiences **My Resume**
 
@@ -47,6 +47,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="60"/> </a> &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="60"/> </a>
 </p>
@@ -100,6 +101,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senjapuri&show_icons=true&locale=en&theme=tokyonight" alt="senjapuri" /></p> -->
 
 <br/>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senjapuri&&theme=tokyonight" alt="senjapuri" /></p> 
 
