@@ -1,32 +1,29 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Sameer+Enjapuri)
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQH5i_pk9_lOGw/article-cover_image-shrink_720_1280/0/1697089776871?e=2147483647&v=beta&t=_S2qYzhyUMPWyqRaNghRycz5jNekKZzWQCEisTNR0k0)
+<h1 align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Sameer+Enjapuri)</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Data Engineer dedicated to designing and optimizing robust data pipelines, enabling seamless data integration and driving insightful analytics.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerenjapuri&label=Profile%20views&color=0e75b6&style=flat" alt="sameerenjapuri" /> </p>
-<p align="left"> <a href="https://twitter.com/@enjapurisameer" target="blank"><img src="https://img.shields.io/twitter/follow/@enjapurisameer?logo=twitter&style=for-the-badge" alt="@enjapurisameer" /></a> </p>
-🔭 I’m currently working on The Human BioMolecular Atlas Program
 
-🌱 I’m currently enhancing my skills in Generative AI and Real-Time Data Integration
 
-👯 I’m looking to collaborate on Challenging Data Engineering Projects
+🎓 Master of Science in Business Analytics and Information Systems @ **University of South Florida**
 
-📝 I regularly write articles on Medium
+💼 Graduate Research Assistant @ **University of South Florida**
 
-💬 Ask me about:
+🔭 I’m currently working on **CyberSecurity website for Florida State Employees**
 
-🎓 Master of Science in Business Analytics and Information Systems @ University of South Florida
+💻 Data Engineer/Analyst @ **Capgemini**
 
-💼 Graduate Research Assistant @ University of South Florida
+💻 Data Engineer/Analyst @ **Tata Consultancy Services**
 
-💼 Consultant – Data Engineer @ Capgemini
+🌱 Always eager to learn and explore **new technologies**
 
-💻 System Engineer – Data Engineer @ Tata Consultancy Services
+📫 How to reach me **enjapurisameer@gmail.com**
 
-🌱 Always eager to learn and explore new technologies
+📄 Know about my experiences **My Resume**
 
-📫 How to reach me enjapurisameer@gmail.com
-
-📄 Know about my experiences My Resume
+⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
