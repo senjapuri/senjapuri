@@ -69,6 +69,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
+<!--
 <br/>
 <p align="left">
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/feb34e92-3e24-4220-b490-45c9e64f70a6.svg" alt="Apache Airflow" height="50"/> </a>
@@ -76,6 +77,7 @@
   <a href="https://www.informatica.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/informatica/images/6b896cda-58af-4ab4-ae18-e8cc6c748001.svg" alt="Informatica" height="50"/> </a>
   <a href="https://www.confluent.io/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/confluentio/images/c28e7e53-7229-4832-8f7e-5e0a6e8a64cb.svg" alt="Confluent Kafka" height="50"/> </a>
 </p>
+
 
 <br/>
 <p align="left">
@@ -89,7 +91,7 @@
   <a href="https://www.snowflake.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/snowflake/images/6fc8a852-4416-417b-99a0-f373290f30a8.svg
 
 
-<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senjapuri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="senjapuri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senjapuri&show_icons=true&locale=en&theme=tokyonight" alt="senjapuri" /></p> -->
