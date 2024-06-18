@@ -68,8 +68,8 @@
 <p align="left">
   <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/feb34e92-3e24-4220-b490-45c9e64f70a6.svg" alt="Apache Airflow" height="50"/>&nbsp;&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/apache_kafka/images/84c6b83b-3715-4e9a-bfb1-c65e2b5fc5c0.svg" alt="Apache Kafka" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" height="50"/>&nbsp;&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/informatica/images/6b896cda-58af-4ab4-ae18-e8cc6c748001.svg" alt="Informatica" height="50"/>&nbsp;&nbsp;
+  <img src="https://upload.vectorlogo.zone/logos/confluentio/images/c28e7e53-7229-4832-8f7e-5e0a6e8a64cb.svg" alt="Confluent Kafka" height="50"/>&nbsp;&nbsp;
 </p>
 
 <br/>
@@ -80,5 +80,6 @@
   <img src="https://upload.vectorlogo.zone/logos/qlik/images/9d9c3a7f-5a36-429a-b528-2e99341a773a.svg" alt="Qlik Sense" height="50"/>&nbsp;&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/looker/images/8b4a52a4-66d6-4a6b-8a8f-460d9dcd02d6.svg" alt="Looker Studio" height="50"/>&nbsp;&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/amazon_quicksight/images/8e6b8c87-d2e0-4a83-8d9c-15f64e40fb08.svg" alt="Amazon QuickSight" height="50"/>&nbsp;&nbsp;
+  <img src="https://upload.vectorlogo.zone/logos/etlworks/images/0f94db19-0973-4cd8-8c53-73730c05e90e.svg" alt="ETL" height="50"/>&nbsp;&nbsp;
+  <img src="https://upload.vectorlogo.zone/logos/snowflake/images/6fc8a852-4416-417b-99a0-f373290f30a8.svg" alt="Data Warehousing" height="50"/>&nbsp;&nbsp;
 </p>
-
