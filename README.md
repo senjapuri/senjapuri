@@ -1,3 +1,5 @@
+![Technology Background](https://cdn.pixabay.com/photo/2015/09/05/22/46/data-925622_960_720.jpg)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Sameer+Enjapuri" alt="Typing SVG">
 </div>
