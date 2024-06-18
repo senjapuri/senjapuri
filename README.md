@@ -19,6 +19,10 @@
 
 💻 Data Engineer/Analyst @ **Tata Consultancy Services**
 
+📄 To view my porfolio [https://senjapuri.github.io/Portfolio-Website/#](https://senjapuri.github.io/Portfolio-Website/#)
+
+👨‍💻 All of my projects are available at [https://github.com/samenjapuri](https://github.com/samenjapuri)
+
 🌱 Always eager to learn and explore **new technologies**
 
 📫 How to reach me **enjapurisameer@gmail.com**
@@ -55,24 +59,24 @@
 
 <br/>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="50"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/>&nbsp;&nbsp;
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
 <br/>
 <p align="left">
   <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/feb34e92-3e24-4220-b490-45c9e64f70a6.svg" alt="Apache Airflow" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/apache_kafka/images/84c6b83b-3715-4e9a-bfb1-c65e2b5fc5c0.svg" alt="Apache Kafka" height="50"/>&nbsp;&nbsp;
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
   <img src="https://upload.vectorlogo.zone/logos/informatica/images/6b896cda-58af-4ab4-ae18-e8cc6c748001.svg" alt="Informatica" height="50"/>&nbsp;&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/confluentio/images/c28e7e53-7229-4832-8f7e-5e0a6e8a64cb.svg" alt="Confluent Kafka" height="50"/>&nbsp;&nbsp;
 </p>
 
-<br/>
+<br/> 
 <p align="left">
   <img src="https://upload.vectorlogo.zone/logos/tableau/images/a1f0a1f0-a2ef-4f46-bab1-6c09b85c9945.svg" alt="Tableau" height="50"/>&nbsp;&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/5d8e43d4-7b9d-4dd5-a8dd-0582c6f3a75e.svg" alt="Power BI" height="50"/>&nbsp;&nbsp;
@@ -83,3 +87,11 @@
   <img src="https://upload.vectorlogo.zone/logos/etlworks/images/0f94db19-0973-4cd8-8c53-73730c05e90e.svg" alt="ETL" height="50"/>&nbsp;&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/snowflake/images/6fc8a852-4416-417b-99a0-f373290f30a8.svg" alt="Data Warehousing" height="50"/>&nbsp;&nbsp;
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senjapuri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="senjapuri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senjapuri&show_icons=true&locale=en&theme=tokyonight" alt="senjapuri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senjapuri&&theme=tokyonight" alt="senjapuri" /></p>
+
