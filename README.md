@@ -40,58 +40,59 @@
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="60"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="60"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" height="60"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="60"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="60"/>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"/> </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="60"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="60"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" height="60"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="60"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="60"/> </a>
 </p>
 
 <br/>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" height="50"/>&nbsp;&nbsp;
+  <a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="50"/> </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/> </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" height="50"/> </a>
 </p>
 
 <br/>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/>&nbsp;&nbsp;
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="50"/> </a>
+  <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" height="50"/> </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/> </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <br/>
 <p align="left">
-  <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/feb34e92-3e24-4220-b490-45c9e64f70a6.svg" alt="Apache Airflow" height="50"/>&nbsp;&nbsp;
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-  <img src="https://upload.vectorlogo.zone/logos/informatica/images/6b896cda-58af-4ab4-ae18-e8cc6c748001.svg" alt="Informatica" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/confluentio/images/c28e7e53-7229-4832-8f7e-5e0a6e8a64cb.svg" alt="Confluent Kafka" height="50"/>&nbsp;&nbsp;
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/feb34e92-3e24-4220-b490-45c9e64f70a6.svg" alt="Apache Airflow" height="50"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
+  <a href="https://www.informatica.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/informatica/images/6b896cda-58af-4ab4-ae18-e8cc6c748001.svg" alt="Informatica" height="50"/> </a>
+  <a href="https://www.confluent.io/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/confluentio/images/c28e7e53-7229-4832-8f7e-5e0a6e8a64cb.svg" alt="Confluent Kafka" height="50"/> </a>
 </p>
 
-<br/> 
+<br/>
 <p align="left">
-  <img src="https://upload.vectorlogo.zone/logos/tableau/images/a1f0a1f0-a2ef-4f46-bab1-6c09b85c9945.svg" alt="Tableau" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/5d8e43d4-7b9d-4dd5-a8dd-0582c6f3a75e.svg" alt="Power BI" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/microsoft_excel/images/f682b0e3-9d6a-43e4-b8ec-282bb9b0f09f.svg" alt="Excel" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/qlik/images/9d9c3a7f-5a36-429a-b528-2e99341a773a.svg" alt="Qlik Sense" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/looker/images/8b4a52a4-66d6-4a6b-8a8f-460d9dcd02d6.svg" alt="Looker Studio" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/amazon_quicksight/images/8e6b8c87-d2e0-4a83-8d9c-15f64e40fb08.svg" alt="Amazon QuickSight" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/etlworks/images/0f94db19-0973-4cd8-8c53-73730c05e90e.svg" alt="ETL" height="50"/>&nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/snowflake/images/6fc8a852-4416-417b-99a0-f373290f30a8.svg" alt="Data Warehousing" height="50"/>&nbsp;&nbsp;
-</p>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/tableau/images/a1f0a1f0-a2ef-4f46-bab1-6c09b85c9945.svg" alt="Tableau" height="50"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/5d8e43d4-7b9d-4dd5-a8dd-0582c6f3a75e.svg" alt="Power BI" height="50"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_excel/images/f682b0e3-9d6a-43e4-b8ec-282bb9b0f09f.svg" alt="Excel" height="50"/> </a>
+  <a href="https://www.qlik.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/qlik/images/9d9c3a7f-5a36-429a-b528-2e99341a773a.svg" alt="Qlik Sense" height="50"/> </a>
+  <a href="https://looker.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/looker/images/8b4a52a4-66d6-4a6b-8a8f-460d9dcd02d6.svg" alt="Looker Studio" height="50"/> </a>
+  <a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/amazon_quicksight/images/8e6b8c87-d2e0-4a83-8d9c-15f64e40fb08.svg" alt="Amazon QuickSight" height="50"/> </a>
+  <a href="https://etlworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/etlworks/images/0f94db19-0973-4cd8-8c53-73730c05e90e.svg" alt="ETL" height="50"/> </a>
+  <a href="https://www.snowflake.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/snowflake/images/6fc8a852-4416-417b-99a0-f373290f30a8.svg
 
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senjapuri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="senjapuri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senjapuri&show_icons=true&locale=en&theme=tokyonight" alt="senjapuri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senjapuri&show_icons=true&locale=en&theme=tokyonight" alt="senjapuri" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senjapuri&&theme=tokyonight" alt="senjapuri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senjapuri&&theme=tokyonight" alt="senjapuri" /></p> 
 
