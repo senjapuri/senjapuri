@@ -1,8 +1,7 @@
-![Technology Background](https://cdn.pixabay.com/photo/2015/09/05/22/46/data-925622_960_720.jpg)
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Sameer+Enjapuri" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi👋,+I'm+Sameer+Enjapuri" alt="Typing SVG">
 </div>
+
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Data Engineer/Analyst dedicated to designing and optimizing robust data pipelines, enabling seamless data integration and driving insightful analytics.</h3>
 
