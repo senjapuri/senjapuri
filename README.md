@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+I'm+Sameer+Enjapuri)
 
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Data Engineer dedicated to designing and optimizing robust data pipelines, enabling seamless data integration and driving insightful analytics.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Data Engineer/Analyst dedicated to designing and optimizing robust data pipelines, enabling seamless data integration and driving insightful analytics.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -44,3 +44,33 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
 </p>
 <br><br><br><br>
+
+
+<h3 align="center">
+  👷🏼 Every day, I find myself working with the following technologies:
+</h3>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/>&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60"/>&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/>&nbsp;&nbsp;
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" />&nbsp;&nbsp;
+</p>
+
+</br>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postman-icon.svg" alt="postman" height="50"/>&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi-icon.svg" alt="html5" height="50"/>&nbsp;&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="git" height="50"/>&nbsp;&nbsp;
+<img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="linux" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/iamzehan/FastAPI-Beanie-MongoDB/assets/43857150/1965d7c4-ae5d-46b9-8c5e-fae7466ec91e" alt="bash" height="50"/>&nbsp;&nbsp;
+ 
+  
+</p>
+</br>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mongodb-icon.svg" alt="html5" height="50"/>&nbsp;&nbsp; 
+</p>
+<br/>
