@@ -27,8 +27,6 @@
 
 👨‍💻 All of my projects are available at [https://github.com/samenjapuri](https://github.com/senjapuri)
 
-📄 Know about my experiences **My Resume**
-
 ⚡ Fun fact **I am Funny**
 
 <br/>
