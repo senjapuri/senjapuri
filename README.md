@@ -27,7 +27,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/samenjapuri](https://github.com/senjapuri)
 
-⚡ Fun fact **I am Funny**
+<!--⚡ Fun fact **I am Funny**-->
 
 <br/>
 
