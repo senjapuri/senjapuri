@@ -25,7 +25,7 @@
 
 📄 To view my porfolio [https://senjapuri.github.io/Portfolio-Website/#](https://senjapuri.github.io/Portfolio-Website/#)
 
-👨‍💻 All of my projects are available at [https://github.com/samenjapuri](https://github.com/senjapuri)
+👨‍💻 All of my projects are available at [https://github.com/senjapuri](https://github.com/senjapuri)
 
 <!--⚡ Fun fact **I am Funny**-->
 
