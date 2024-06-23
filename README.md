@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://twitter.com/@samenjapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@enjapurisameer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameerenjapuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameerenjapuri/" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/sameer.krishna.enjapuri/vizzes" target="blank"><img align="center" src="https://camo.githubusercontent.com/b02eca6d76c131e6b6316807fb7d1b1bee359853b88ec8d18cba7a68cbec9d0c/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" alt="sameerenjapuri" height="60" width="200" /></a>
+<a href="https://public.tableau.com/app/profile/sameer.krishna.enjapuri/vizzes" target="blank"><img align="center" src=https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" alt="sameerenjapuri" height="60" width="200" /></a>
   
 </a>
 
