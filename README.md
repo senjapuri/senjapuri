@@ -36,7 +36,10 @@
 <a href="https://twitter.com/@samenjapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@enjapurisameer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameerenjapuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameerenjapuri/" height="30" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/sameer.krishna.enjapuri/vizzes" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="sameerenjapuri" height="30" width="40" /></a>
-  
+
+
+
+
 </a>
 
 </p>
@@ -60,6 +63,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/> </a> &nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/> </a> &nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" height="50"/> </a>
+  
+  <a href="https://www.tableau.com/trial/tableau-software?d=7013y000002ExxpAAC&nc=7013y000002EykIAAS&utm_content=7013y000002ExxpAAC&utm_source=google&utm_medium=paid_search&utm_campaign=21198912846&utm_adgroup=159894453726&utm_term=tableau&utm_matchtype=e&gad_source=1&gclid=Cj0KCQjwj9-zBhDyARIsAERjds1qTex9Yxn1mH9m5_BcnaOwbRx_s-OuFJQSijePaC3LK1dIoZYMQfQaAjmlEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="tableau" height="50"/> </a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="PowerBI" height="50"/> </a>
 </p>
 
 <br/>
