@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://twitter.com/@samenjapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@enjapurisameer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameerenjapuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameerenjapuri/" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/sameer.krishna.enjapuri/vizzes" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="sameerenjapuri" height="60" width="200" /></a>
+<a href="https://public.tableau.com/app/profile/sameer.krishna.enjapuri/vizzes" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="sameerenjapuri" height="30" width="40" /></a>
   
 </a>
 
