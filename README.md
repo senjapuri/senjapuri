@@ -35,6 +35,13 @@
 <p align="left">
 <a href="https://twitter.com/@samenjapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@enjapurisameer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameerenjapuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameerenjapuri/" height="30" width="40" /></a>
+
+  <a href="https://linkedin.com/in/sameerenjapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerenjapuri" height="30" width="40" /></a>
+
+  <a href="[https://linkedin.com/in/sameerenjapuri](https://public.tableau.com/app/profile/sameer.krishna.enjapuri/vizzes)" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fexchange.tableau.com%2Faccelerators%3Fversion%3D2021.2%26category%3DITSM&psig=AOvVaw2sdErOcLfUh5Le5mxaXPiS&ust=1719257527095000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCP8se78oYDFQAAAAAdAAAAABAE" alt="sameerenjapuri" height="30" width="40" /></a>
+  
+</a>
+
 </p>
 
 <br/>
