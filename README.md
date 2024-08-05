@@ -23,9 +23,9 @@
 
 📫 How to reach me **enjapurisameer@gmail.com**
 
-📄  [To view my porfolio](https://sameer-enjapuri.netlify.app/)
+📄 Click Here --> [To view my porfolio](https://sameer-enjapuri.netlify.app/)
 
-👨‍💻 All of my projects are available at [Project Repositories](https://github.com/senjapuri?tab=repositories)
+👨‍💻 All of my projects are available --> [Project Repositories](https://github.com/senjapuri?tab=repositories)
 
 <!--⚡ Fun fact **I am Funny**-->
 
