@@ -17,6 +17,8 @@
 
 💻 Data Engineer/Analyst @ **Capgemini**
 
+💻 Data Engineer/Analyst @ **Cognizant**
+
 💻 Data Engineer/Analyst @ **Tata Consultancy Services**
 
 🌱 Always eager to learn and explore **new technologies**
