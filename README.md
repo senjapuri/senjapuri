@@ -41,17 +41,6 @@
 </a>
 </p>
 
-<br/>
-<p align="left">
-  <a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="50"/> </a> &nbsp;&nbsp;
-  
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="MySQL" height="50"/> </a> &nbsp;&nbsp;
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/> </a> &nbsp;&nbsp;
-  
-  
-</p>
-<br/>
 
 <h3 align="left">Languages and Tools</h3>
 
