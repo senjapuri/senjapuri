@@ -38,14 +38,19 @@
 <a href="https://twitter.com/@samenjapuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@enjapurisameer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameerenjapuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameerenjapuri/" height="30" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/sameer.krishna.enjapuri/vizzes" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="sameerenjapuri" height="30" width="40" /></a>
-
-
-
-
 </a>
-
 </p>
 
+<br/>
+<p align="left">
+  <a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="50"/> </a> &nbsp;&nbsp;
+  
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="MySQL" height="50"/> </a> &nbsp;&nbsp;
+  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/> </a> &nbsp;&nbsp;
+  
+  
+</p>
 <br/>
 
 <h3 align="left">Languages and Tools</h3>
@@ -82,18 +87,4 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-  <!-- Certifications -->
-<br/>
-<p align="left">
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect_Associate.100x100.png" alt="AWS Certified Solutions Architect – Associate" height="50"/>
-  </a> &nbsp;&nbsp;
 
-  <a href="https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/100/000000/microsoft-power-bi.png" alt="Microsoft Certified: Power BI Data Analyst Associate" height="50"/>
-  </a> &nbsp;&nbsp;
-
-  <a href="https://www.databricks.com/learn/certification/data-engineer-associate" target="_blank" rel="noreferrer">
-    <img src="https://databricks.com/wp-content/uploads/2023/01/Databricks_Certified_Data_Engineer_Associate_Badge.svg" alt="Databricks Certified Data Engineer Associate" height="50"/>
-  </a>
-</p>
