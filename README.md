@@ -82,34 +82,18 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<!--
+  <!-- Certifications -->
 <br/>
 <p align="left">
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/feb34e92-3e24-4220-b490-45c9e64f70a6.svg" alt="Apache Airflow" height="50"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-  <a href="https://www.informatica.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/informatica/images/6b896cda-58af-4ab4-ae18-e8cc6c748001.svg" alt="Informatica" height="50"/> </a>
-  <a href="https://www.confluent.io/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/confluentio/images/c28e7e53-7229-4832-8f7e-5e0a6e8a64cb.svg" alt="Confluent Kafka" height="50"/> </a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer">
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect_Associate.100x100.png" alt="AWS Certified Solutions Architect – Associate" height="50"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/100/000000/microsoft-power-bi.png" alt="Microsoft Certified: Power BI Data Analyst Associate" height="50"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.databricks.com/learn/certification/data-engineer-associate" target="_blank" rel="noreferrer">
+    <img src="https://databricks.com/wp-content/uploads/2023/01/Databricks_Certified_Data_Engineer_Associate_Badge.svg" alt="Databricks Certified Data Engineer Associate" height="50"/>
+  </a>
 </p>
-
-
-<br/>
-<p align="left">
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/tableau/images/a1f0a1f0-a2ef-4f46-bab1-6c09b85c9945.svg" alt="Tableau" height="50"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/5d8e43d4-7b9d-4dd5-a8dd-0582c6f3a75e.svg" alt="Power BI" height="50"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_excel/images/f682b0e3-9d6a-43e4-b8ec-282bb9b0f09f.svg" alt="Excel" height="50"/> </a>
-  <a href="https://www.qlik.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/qlik/images/9d9c3a7f-5a36-429a-b528-2e99341a773a.svg" alt="Qlik Sense" height="50"/> </a>
-  <a href="https://looker.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/looker/images/8b4a52a4-66d6-4a6b-8a8f-460d9dcd02d6.svg" alt="Looker Studio" height="50"/> </a>
-  <a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/amazon_quicksight/images/8e6b8c87-d2e0-4a83-8d9c-15f64e40fb08.svg" alt="Amazon QuickSight" height="50"/> </a>
-  <a href="https://etlworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/etlworks/images/0f94db19-0973-4cd8-8c53-73730c05e90e.svg" alt="ETL" height="50"/> </a>
-  <a href="https://www.snowflake.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/snowflake/images/6fc8a852-4416-417b-99a0-f373290f30a8.svg
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senjapuri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="senjapuri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senjapuri&show_icons=true&locale=en&theme=tokyonight" alt="senjapuri" /></p> 
-
-<br/>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senjapuri&&theme=tokyonight" alt="senjapuri" /></p>  -->
-
