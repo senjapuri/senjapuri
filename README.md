@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Sameer+Enjapuri" alt="Typing SVG">
 </div>
 
+
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Data Engineer/Analyst dedicated to designing and optimizing robust data pipelines, enabling seamless data integration and driving insightful analytics.</h3>
 
 <br><br>
